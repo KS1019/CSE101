@@ -1,0 +1,12 @@
+Files:
+- Makefile
+Defines tasks such as compile, run a test, and clean
+- sixdegrees.cpp
+Implements main function and graph logic
+
+References used:
+- https://stackoverflow.com/questions/5493474/graph-implementation-c
+- https://en.wikipedia.org/wiki/Vertex_(graph_theory)
+- https://stackoverflow.com/questions/3385229/c-erase-vector-element-by-value-rather-than-by-position
+- https://www.geeksforgeeks.org/shortest-path-unweighted-graph/
+- https://stackoverflow.com/questions/1939953/how-to-find-if-a-given-key-exists-in-a-c-stdmap

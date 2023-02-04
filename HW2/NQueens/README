@@ -1,0 +1,7 @@
+Files:
+- NQueens.cpp
+- Makefile
+
+References:
+- https://stackoverflow.com/questions/1701067/how-to-check-that-an-element-is-in-a-stdset
+- https://stackoverflow.com/questions/26227877/n-queens-program-using-stack-and-backtracking

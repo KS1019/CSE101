@@ -1,0 +1,17 @@
+# CSE101 Assignment HW1: Much ado about linking
+Kotaro Suto
+
+## Files used
+- bard.cpp
+- LinkedList.h
+- LinkedList.cpp
+- Makefile
+
+## Websites referenced
+- [Bubble Sort for Linked List by Swapping nodes - GeeksforGeeks](https://www.geeksforgeeks.org/bubble-sort-for-linked-list-by-swapping-nodes/)
+- [c++ - How to sort a linked list using bubble-sort? - Stack Overflow](https://stackoverflow.com/questions/19522121/how-to-sort-a-linked-list-using-bubble-sort)
+- [c++ - Returning to beginning of file after getline - Stack Overflow](https://stackoverflow.com/questions/5343173/returning-to-beginning-of-file-after-getline)
+- [c++ - Comparing strings lexicographically - Stack Overflow](https://stackoverflow.com/questions/14297185/comparing-strings-lexicographically) 
+- [strdup - cppreference.com](https://en.cppreference.com/w/c/experimental/dynamic/strdup)
+- [c++ - How can I convert a std::string to int? - Stack Overflow](https://stackoverflow.com/questions/7663709/how-can-i-convert-a-stdstring-to-int)
+- [c - Why a warning of "control reaches end of non-void function" for the main function? - Stack Overflow](https://stackoverflow.com/questions/13464243/why-a-warning-of-control-reaches-end-of-non-void-function-for-the-main-functio)
